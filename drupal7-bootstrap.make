@@ -84,7 +84,7 @@ libraries[ckeditor][directory_name] = "ckeditor"
 
 libraries[ckfinder][download][type] = "file"
 libraries[ckfinder][download][url] = "http://download.cksource.com/CKFinder/CKFinder%20for%20PHP/2.4.2/ckfinder_php_2.4.2.zip
-libraries[ckfinder][directory_name] = "ckeditor"
+libraries[ckfinder][directory_name] = "ckfinder"
 
 ; less compiler
 libraries[less][download][type] = "file"
