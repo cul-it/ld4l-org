@@ -64,7 +64,7 @@ projects[bootstrap][version] = "3.0"
 ; and url is the url of the download.
 projects[ld4l][type] = "theme"
 projects[ld4l][download][type] = "git"
-projects[ld4l][download][url] = "git@github.com:dbranchini/ld4l.git"
+projects[ld4l][download][url] = "git@github.com:cul-it/ld4l-org-theme.git"
 projects[ld4l][download][branch] = "master"
 
 ; Libraries
