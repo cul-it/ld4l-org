@@ -44,11 +44,15 @@ projects[wysiwyg][version] = "2.2"
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.15"
 
+projects[imce][subdir] = "contrib"
+projects[imce][version] = "1.9"
+
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
 projects[less][version] = "3.0"
 projects[less][patch][] = "https://www.drupal.org/files/issues/oyejorge-compiler-2221237.patch"
 
+;this library is for LESS compiler module 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.2"
 
