@@ -80,6 +80,10 @@ libraries[tinymce][download][type] = "file"
 libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip"
 libraries[tinymce][directory_name] = "tinymce"
 
+libraries[elfinder][download][type] = "file"
+libraries[elfinder][download][url] = "http://sourceforge.net/projects/elfinder/files/elfinder-1.2.tar.gz/download"
+libraries[elfinder][directory_name] = "elfinder"
+
 ; less compiler
 libraries[less][download][type] = "file"
 libraries[less][download][url] = "https://github.com/oyejorge/less.php/archive/master.zip"
