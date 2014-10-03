@@ -41,6 +41,9 @@ projects[views][version] = "3.8"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
+projects[ckeditor][subdir] = "contrib"
+projects[ckeditor][version] = "1.15"
+
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
 projects[less][version] = "3.0"
