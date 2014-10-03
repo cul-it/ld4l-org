@@ -38,6 +38,9 @@ projects[token][version] = "1.5"
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.8"
 
+projects[file_entity][subdir] = "contrib"
+projects[file_entity][version] = "2.0-alpha3"
+
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
@@ -45,7 +48,7 @@ projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "1.4"
+projects[media][version] = "2.0-alpha3"
 
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
@@ -78,13 +81,13 @@ libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinym
 libraries[tinymce][directory_name] = "tinymce"
 
 ; wysiwyg - ckeditor
-libraries[ckeditor][download][type] = "file"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_standard.zip"
-libraries[ckeditor][directory_name] = "ckeditor"
+;libraries[ckeditor][download][type] = "file"
+;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_standard.zip"
+;libraries[ckeditor][directory_name] = "ckeditor"
 
-libraries[ckfinder][download][type] = "file"
-libraries[ckfinder][download][url] = "http://download.cksource.com/CKFinder/CKFinder%20for%20PHP/2.4.2/ckfinder_php_2.4.2.zip
-libraries[ckfinder][directory_name] = "ckfinder"
+;libraries[ckfinder][download][type] = "file"
+;libraries[ckfinder][download][url] = "http://download.cksource.com/CKFinder/CKFinder%20for%20PHP/2.4.2/ckfinder_php_2.4.2.zip
+;libraries[ckfinder][directory_name] = "ckfinder"
 
 ; less compiler
 libraries[less][download][type] = "file"
