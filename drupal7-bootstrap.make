@@ -41,14 +41,14 @@ projects[views][version] = "3.8"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
-projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.15"
+projects[wysiwyg_ckfinder][subdir] = "contrib"
+projects[wysiwyg_ckfinder][version] = "1.1"
 
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
 
-projects[elfinder][subdir] = "contrib"
-projects[elfinder][version] = "0.8"
+projects[media][subdir] = "contrib"
+projects[media][version] = "1.4"
 
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
@@ -75,14 +75,15 @@ projects[ld4l][download][url] = "git@github.com:cul-it/ld4l-org-theme.git"
 projects[ld4l][download][branch] = "master"
 
 ; Libraries
-; wysiwyg 
+; wysiwyg - tinymce
 libraries[tinymce][download][type] = "file"
 libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip"
 libraries[tinymce][directory_name] = "tinymce"
 
-libraries[elfinder][download][type] = "file"
-libraries[elfinder][download][url] = "http://sourceforge.net/projects/elfinder/files/elfinder-1.2.tar.gz/download"
-libraries[elfinder][directory_name] = "elfinder"
+; wysiwyg - ckeditor
+libraries[ckeditor][download][type] = "file"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_standard.zip"
+libraries[ckeditor][directory_name] = "ckeditor"
 
 ; less compiler
 libraries[less][download][type] = "file"
