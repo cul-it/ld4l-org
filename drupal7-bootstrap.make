@@ -41,9 +41,6 @@ projects[views][version] = "3.8"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
-projects[wysiwyg_ckfinder][subdir] = "contrib"
-projects[wysiwyg_ckfinder][version] = "1.1"
-
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
 
@@ -84,6 +81,10 @@ libraries[tinymce][directory_name] = "tinymce"
 libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_standard.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
+
+libraries[ckfinder][download][type] = "file"
+libraries[ckfinder][download][url] = "http://download.cksource.com/CKFinder/CKFinder%20for%20PHP/2.4.2/ckfinder_php_2.4.2.zip
+libraries[ckfinder][directory_name] = "ckeditor"
 
 ; less compiler
 libraries[less][download][type] = "file"
