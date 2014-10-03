@@ -47,6 +47,9 @@ projects[ckeditor][version] = "1.15"
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
 
+projects[elfinder][subdir] = "contrib"
+projects[elfinder][version] = "0.8"
+
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
 projects[less][version] = "3.0"
