@@ -44,6 +44,9 @@ projects[file_entity][version] = "2.0-alpha3"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
+projects[ckeditor][subdir] = "contrib"
+projects[ckeditor][version] = "1.15"
+
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
 
@@ -80,13 +83,9 @@ libraries[tinymce][download][type] = "file"
 libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip"
 libraries[tinymce][directory_name] = "tinymce"
 
-; wysiwyg - ckeditor
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
-libraries[ckeditor][directory_name] = "ckeditor"
-
-;libraries[ckeditor][download][type] = "file"
-;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_standard.zip"
+; wysiwyg - ckeditor 
+;libraries[ckeditor][download][type] = "get"
+;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
 ;libraries[ckeditor][directory_name] = "ckeditor"
 
 ;libraries[ckfinder][download][type] = "file"
