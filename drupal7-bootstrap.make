@@ -41,14 +41,8 @@ projects[views][version] = "3.8"
 projects[file_entity][subdir] = "contrib"
 projects[file_entity][version] = "2.0-alpha3"
 
-projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][version] = "2.2"
-
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.15"
-
-projects[imce][subdir] = "contrib"
-projects[imce][version] = "1.9"
 
 projects[media][subdir] = "contrib"
 projects[media][version] = "2.0-alpha3"
@@ -79,18 +73,14 @@ projects[ld4l][download][branch] = "master"
 
 ; Libraries
 ; wysiwyg - tinymce
-libraries[tinymce][download][type] = "file"
-libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip"
-libraries[tinymce][directory_name] = "tinymce"
+;libraries[tinymce][download][type] = "file"
+;libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip"
+;libraries[tinymce][directory_name] = "tinymce"
 
 ; wysiwyg - ckeditor 
 ;libraries[ckeditor][download][type] = "get"
 ;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
 ;libraries[ckeditor][directory_name] = "ckeditor"
-
-;libraries[ckfinder][download][type] = "file"
-;libraries[ckfinder][download][url] = "http://download.cksource.com/CKFinder/CKFinder%20for%20PHP/2.4.2/ckfinder_php_2.4.2.zip
-;libraries[ckfinder][directory_name] = "ckfinder"
 
 ; less compiler
 libraries[less][download][type] = "file"
