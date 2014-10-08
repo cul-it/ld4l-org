@@ -45,7 +45,7 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.15"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "2.0-alpha3"
+projects[media][version] = "2.0-alpha1"
 
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
