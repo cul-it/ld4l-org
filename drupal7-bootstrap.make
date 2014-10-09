@@ -54,7 +54,7 @@ projects[block_access][subdir] = "contrib"
 projects[block_access][version] = "1.5"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "2.0-alpha4"
+projects[media][version] = "2.0-alpha3"
 
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
