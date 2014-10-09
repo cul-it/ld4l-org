@@ -47,6 +47,9 @@ projects[file_entity][version] = "2.0-alpha3"
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.15"
 
+projects[pathologic][subdir] = "contrib"
+projects[pathologic][version] = "2.12"
+
 ;projects[imce][subdir] = "contrib"
 ;projects[imce][version] = "1.9"
 
