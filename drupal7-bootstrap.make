@@ -35,11 +35,11 @@ projects[pathauto][version] = "1.2"
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
-;projects[views][subdir] = "contrib"
-;projects[views][version] = "3.8"
+projects[views][subdir] = "contrib"
+projects[views][version] = "3.8"
 
-;projects[file_entity][subdir] = "contrib"
-;projects[file_entity][version] = "2.0-alpha3"
+projects[file_entity][subdir] = "contrib"
+projects[file_entity][version] = "2.0-alpha3"
 
 ;projects[wysiwyg][subdir] = "contrib"
 ;projects[wysiwyg][version] = "2.2"
@@ -53,8 +53,8 @@ projects[ckeditor][version] = "1.15"
 projects[block_access][subdir] = "contrib"
 projects[block_access][version] = "1.5"
 
-;projects[media][subdir] = "contrib"
-;projects[media][version] = "2.0-alpha3"
+projects[media][subdir] = "contrib"
+projects[media][version] = "2.0-alpha3"
 
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
