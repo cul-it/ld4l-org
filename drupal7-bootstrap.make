@@ -21,7 +21,7 @@ projects[jcaption][subdir] = "contrib"
 projects[jcaption][version] = "1.4"
 
 projects[job_scheduler][subdir] = "contrib"
-projects[job_scheduler][version] = "2.0-alpha4"
+projects[job_scheduler][version] = "2.0-alpha3"
 
 projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "2.4"
@@ -54,7 +54,7 @@ projects[block_access][subdir] = "contrib"
 projects[block_access][version] = "1.5"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "2.0-alpha3"
+projects[media][version] = "2.0-alpha4"
 
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
