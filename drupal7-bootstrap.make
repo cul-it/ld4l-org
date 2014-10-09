@@ -50,6 +50,9 @@ projects[ckeditor][version] = "1.15"
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
 
+projects[block_access][subdir] = "contrib"
+projects[block_access][version] = "1.5"
+
 ;projects[media][subdir] = "contrib"
 ;projects[media][version] = "2.0-alpha3"
 
