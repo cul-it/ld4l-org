@@ -21,7 +21,7 @@ projects[jcaption][subdir] = "contrib"
 projects[jcaption][version] = "1.4"
 
 projects[job_scheduler][subdir] = "contrib"
-projects[job_scheduler][version] = "2.0-alpha3"
+projects[job_scheduler][version] = "2.0-alpha4"
 
 projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "2.4"
@@ -47,8 +47,8 @@ projects[token][version] = "1.5"
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.15"
 
-projects[imce][subdir] = "contrib"
-projects[imce][version] = "1.9"
+;projects[imce][subdir] = "contrib"
+;projects[imce][version] = "1.9"
 
 projects[block_access][subdir] = "contrib"
 projects[block_access][version] = "1.5"
