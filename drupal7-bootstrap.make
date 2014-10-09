@@ -35,17 +35,23 @@ projects[pathauto][version] = "1.2"
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
-projects[views][subdir] = "contrib"
-projects[views][version] = "3.8"
+;projects[views][subdir] = "contrib"
+;projects[views][version] = "3.8"
 
-projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0-alpha3"
+;projects[file_entity][subdir] = "contrib"
+;projects[file_entity][version] = "2.0-alpha3"
+
+;projects[wysiwyg][subdir] = "contrib"
+;projects[wysiwyg][version] = "2.2"
 
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.12"
+projects[ckeditor][version] = "1.15"
 
-projects[media][subdir] = "contrib"
-projects[media][version] = "2.0-alpha1"
+projects[imce][subdir] = "contrib"
+projects[imce][version] = "1.9"
+
+;projects[media][subdir] = "contrib"
+;projects[media][version] = "2.0-alpha3"
 
 ;patch is for LESS compiler module
 projects[less][subdir] = "contrib"
@@ -82,6 +88,10 @@ projects[ld4l][download][branch] = "master"
 ;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
 ;libraries[ckeditor][directory_name] = "ckeditor"
 
+;libraries[ckfinder][download][type] = "file"
+;libraries[ckfinder][download][url] = "http://download.cksource.com/CKFinder/CKFinder%20for%20PHP/2.4.2/ckfinder_php_2.4.2.zip
+;libraries[ckfinder][directory_name] = "ckfinder"
+
 ; less compiler
 libraries[less][download][type] = "file"
 libraries[less][download][url] = "https://github.com/oyejorge/less.php/archive/master.zip"
@@ -92,4 +102,3 @@ libraries[feeds_jsonpath_parser][download][type] = "get"
 libraries[feeds_jsonpath_parser][download][url] = http://jsonpath.googlecode.com/files/jsonpath-0.8.1.php
 libraries[feeds_jsonpath_parser][destination] = "modules/contrib"
 libraries[feeds_jsonpath_parser][install_path] = "sites/all"
-
