@@ -2,14 +2,14 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.32"
+projects[drupal][version] = "7.34"
 
 ; Modules
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "3.0-rc4"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "1.5"
 
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.7"
@@ -45,7 +45,7 @@ projects[token][version] = "1.5"
 ;projects[wysiwyg][version] = "2.2"
 
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.15"
+projects[ckeditor][version] = "1.16"
 
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
