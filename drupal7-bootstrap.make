@@ -50,6 +50,9 @@ projects[ckeditor][version] = "1.17"
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
 
+projects[google_analytics][subdir] = "contrib"
+projects[google_analytics][version] = "2.1"
+
 ;projects[media][subdir] = "contrib"
 ;projects[media][version] = "2.0-alpha3"
 
