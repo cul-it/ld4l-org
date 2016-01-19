@@ -45,7 +45,7 @@ projects[token][version] = "1.5"
 ;projects[wysiwyg][version] = "2.2"
 
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.16"
+projects[ckeditor][version] = "1.17"
 
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.9"
