@@ -66,7 +66,7 @@ projects[feeds_jsonpath_parser][subdir] = "contrib"
 projects[feeds_jsonpath_parser][version] = "1.0-beta2"
 
 ; Themes
-projects[bootstrap][version] = "3.0"
+projects[bootstrap][version] = "3.4"
 
 
 ; Themes
