@@ -27,7 +27,7 @@ projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "2.7"
 
 projects[menu_block][subdir] = "contrib"
-projects[menu_block][version] = "2.5"
+projects[menu_block][version] = "2.7"
 
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
