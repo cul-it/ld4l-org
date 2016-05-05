@@ -48,10 +48,10 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.17"
 
 projects[imce][subdir] = "contrib"
-projects[imce][version] = "1.9"
+projects[imce][version] = "1.10"
 
 projects[google_analytics][subdir] = "contrib"
-projects[google_analytics][version] = "2.1"
+projects[google_analytics][version] = "2.2"
 
 projects[special_menu_items][subdir] = "contrib"
 projects[special_menu_items][version] = "2.0"
@@ -72,7 +72,7 @@ projects[feeds_jsonpath_parser][subdir] = "contrib"
 projects[feeds_jsonpath_parser][version] = "1.0-beta2"
 
 ; Themes
-projects[bootstrap][version] = "3.0"
+projects[bootstrap][version] = "3.5"
 
 
 ; Themes
