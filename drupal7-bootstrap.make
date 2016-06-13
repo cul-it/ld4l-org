@@ -66,7 +66,7 @@ projects[less][patch][] = "https://www.drupal.org/files/issues/oyejorge-compiler
 
 ;library module required for LESS compiler module 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "2.2"
+projects[libraries][version] = "2.3"
 
 projects[feeds_jsonpath_parser][subdir] = "contrib"
 projects[feeds_jsonpath_parser][version] = "1.0-beta2"
