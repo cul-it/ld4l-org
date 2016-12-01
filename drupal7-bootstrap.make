@@ -89,7 +89,7 @@ projects[ld4l][download][branch] = "master"
 ;libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip"
 ;libraries[tinymce][directory_name] = "tinymce"
 
-; wysiwyg - ckeditor 
+; wysiwyg - ckeditor
 ;libraries[ckeditor][download][type] = "get"
 ;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
 ;libraries[ckeditor][directory_name] = "ckeditor"
@@ -103,8 +103,5 @@ libraries[less][download][type] = "file"
 libraries[less][download][url] = "https://github.com/oyejorge/less.php/archive/master.zip"
 libraries[less][directory_name] = "lessphp"
 
-; JSON Path
-libraries[feeds_jsonpath_parser][download][type] = "get"
-libraries[feeds_jsonpath_parser][download][url] = http://jsonpath.googlecode.com/files/jsonpath-0.8.1.php
-libraries[feeds_jsonpath_parser][destination] = "modules/contrib"
-libraries[feeds_jsonpath_parser][install_path] = "sites/all"
+libraries[jsonpath][download][type] = "get"
+libraries[jsonpath][download][url] = "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/jsonpath/jsonpath-0.8.1.php"
